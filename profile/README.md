@@ -2,7 +2,7 @@
 
 Welcome to the AVIDA code repositories, we are thrilled to have you here!
 
-Learn about AVIDA in more details, please see our [presentation].
+**To learn about the impact, motivation and vision for the project, please see our [presentation].**
 
 
 
