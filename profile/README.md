@@ -1,12 +1,18 @@
 # AVIDA ZONE
 
 Welcome to the AVIDA code repositories, we are thrilled to have you here!
+
+Learn about AVIDA in more details, please see our [presentation].
+
+
+
 Here is some useful link to guide you around:
 
 - [UI for AVIPAD]: The code for the [launchpad]
 - [CW contracts]: The CosmWasm Smart contracts for onchain functionalities of AVIPAD
 - [Adaptor]: A modification on the [cw20-adaptor by InjectivLabs], see [diffs]
 - [ursa services]: The mock environment intended ONLY to be used as a demonstration. It performs operations for verifiable credential issuers and holders. For the actual flow please see [AnonCreds specification, a project by the Hyperledger Foundation]
+
 
 [ui for avipad]: https://github.com/avida-zone/launchpad-injective-hackathon
 [cw contracts]: https://github.com/avida-zone/cw-contracts-hackathon23
@@ -16,6 +22,7 @@ Here is some useful link to guide you around:
 [cw20-adaptor by injectivlabs]: https://github.com/InjectiveLabs/cw20-adapter
 [launchpad]: https://launchpad.avida.zone
 [anoncreds specification, a project by the hyperledger foundation]: https://hyperledger.github.io/anoncreds-spec/
+[presentation]: https://github.com/avida-zone/.github/blob/main/profile/AVIPAD.pdf
 
 ---
 
