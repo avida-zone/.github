@@ -2,18 +2,25 @@
 
 Welcome to the AVIDA code repositories, we are thrilled to have you here!
 
-**To learn about the impact, motivation and vision for the project, please see our [presentation].**
+**To learn about the impact, motivation and vision for the project, please see our [presentation]. Also, don't for get to checkout our [short video] to see all this in action**
 
 
-
-Here is some useful link to guide you around:
+The repos here contain the code submitted for the Injective 2023 Hackathon. Here is some useful link to guide you around:
 
 - [UI for AVIPAD]: The code for the [launchpad]
 - [CW contracts]: The CosmWasm Smart contracts for onchain functionalities of AVIPAD
 - [Adaptor]: A modification on the [cw20-adaptor by InjectivLabs], see [diffs]
-- [ursa services]: The mock environment intended ONLY to be used as a demonstration. It performs operations for verifiable credential issuers and holders. For the actual flow please see [AnonCreds specification, a project by the Hyperledger Foundation]
+- [Ursa Services]: The mock environment intended ONLY to be used as a demonstration. It performs operations for verifiable credential issuers and holders. For the actual flow please see [AnonCreds specification, a project by the Hyperledger Foundation]
 
+You can it out by 3 simple steps:
 
+1. Go and get the Vectis Smart Contract Wallet [browser extension]
+2. Go to https://vectis.space and creat a wallet on Injective testnet and install the identity plugin
+3. Go to [AVIPAD] to create you first rgToken or get some existing ones!
+
+[browser extension]: https://chrome.google.com/webstore/detail/vectis-wallet/cgkaddoglojnmfiblgmlinfaijcdpfjm
+[AVIPAD]: https://launchpad.avida.zone
+[short video]: https://youtu.be/ndiPaXUT6cg
 [ui for avipad]: https://github.com/avida-zone/launchpad-injective-hackathon
 [cw contracts]: https://github.com/avida-zone/cw-contracts-hackathon23
 [adaptor]: https://github.com/avida-zone/cw20-adapter
