@@ -2,7 +2,7 @@
 
 Welcome to the AVIDA code repositories, we are thrilled to have you here!
 
-**To learn about the impact, motivation and vision for the project, please see our [presentation]. Also, don't for get to checkout our [short video] to see all this in action**
+**To see it in action - please checkout our [short video] to see all this in action**
 
 
 The repos here contain the code submitted for the Injective 2023 Hackathon. Here is some useful link to guide you around:
