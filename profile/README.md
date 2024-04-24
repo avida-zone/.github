@@ -5,18 +5,12 @@ Welcome to the AVIDA code repositories, we are thrilled to have you here!
 **To see it in action - please checkout our [short video] to see all this in action**
 
 
-The repos here contain the code submitted for the Injective 2023 Hackathon. Here is some useful link to guide you around:
+The repos here contain first version of AVIDA. Here is some useful link to guide you around:
 
 - [UI for AVIPAD]: The code for the [launchpad]
 - [CW contracts]: The CosmWasm Smart contracts for onchain functionalities of AVIPAD
 - [Adaptor]: A modification on the [cw20-adaptor by InjectivLabs], see [diffs]
 - [Ursa Services]: The mock environment intended ONLY to be used as a demonstration. It performs operations for verifiable credential issuers and holders. For the actual flow please see [AnonCreds specification, a project by the Hyperledger Foundation]
-
-You can it out by 3 simple steps:
-
-1. Go and get the Vectis Smart Contract Wallet [browser extension]
-2. Go to https://vectis.space and creat a wallet on Injective testnet and install the identity plugin
-3. Go to [AVIPAD] to create you first rgToken or get some existing ones!
 
 [browser extension]: https://chrome.google.com/webstore/detail/vectis-wallet/cgkaddoglojnmfiblgmlinfaijcdpfjm
 [AVIPAD]: https://launchpad.avida.zone
@@ -33,7 +27,7 @@ You can it out by 3 simple steps:
 
 ---
 
-AVIDA framework and its implementation - AVIPAD is built by Nymlab.
-It is our second product (after [Vectis](https://vectis.space)) that aims to empower people socially and financially in a legal and privacy-protecting environment.
+AVIDA framework and its implementation - AVIPAD is built by [NYMLAB](https://nymlab/it).
+It is a demonstration of the potential of [Vectis](https://vectis.space) as the foundation for compliant self-sovereign wallets that aims to empower people socially and financially in a legal and privacy-protecting environment.
 
 Here is more about [our mission](https://nymlab.notion.site/Introduction-to-Nymlab-f7fa9025874c475880a51a67ea8dc31c)
